@@ -1,2 +1,2 @@
 # Project-Scenario-Honors-Project-
-I completed a notebook where I built a classifier to predict whether there will be rain the following day. I used a rainfall dataset from the Australian Government's Bureau of Meteorology, clean the data, and applied different classification algorithms to the data.
+This project builds a classifier to predict whether it will rain the next day using a dataset from the Australian Bureau of Meteorology. It involves data cleaning, feature selection, and applying various classification algorithms to enhance predictive accuracy.
